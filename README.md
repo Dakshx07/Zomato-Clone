@@ -27,7 +27,7 @@ This project is a front-end clone of the popular Zomato platform. It allows user
 
 ## Acknowledgments
 
--Zomato for inspiration.
+-Zomato for inspiration.        
 -Unsplash and other platforms for images.
 
 Thank you for checking out this project! 😊
