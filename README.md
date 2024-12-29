@@ -25,6 +25,11 @@ This project is a front-end clone of the popular Zomato platform. It allows user
 -Add user authentication for Login and Sign-Up functionality.       
 -Expand geolocation to display detailed city information using reverse geocoding.
 
+## Acknowledgments
+
+-Zomato for inspiration.
+-Unsplash and other platforms for images.
+
 Thank you for checking out this project! 😊
 
 
